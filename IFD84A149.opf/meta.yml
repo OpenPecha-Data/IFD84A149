@@ -1,0 +1,67 @@
+id: IFD84A149
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:06:23.552553'
+last_modified: '2022-05-30T22:06:23.552574'
+parser: null
+source_metadata:
+  title: Khandro Tsering Chödrön Series
+  language: fr
+  description: 'Texts related to Khandro Tsering Chödrön (mkha'' ''gro tshe ring chos
+    sgron, 1929–2011), spiritual consort of Jamyang Khyentse Chökyi Lodrö:'
+  volume:
+    fE0BD:
+      title: 'Beautiful String of Jewels: A Heart Advice'
+      base_file: fE0BD.txt
+      order: 1
+      parent: Advice
+    fEB6E:
+      title: Khandro's Plea
+      base_file: fEB6E.txt
+      order: 2
+      parent: Advice
+    f5DD4:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö and Khandro
+        Tsering Chödrön
+      base_file: f5DD4.txt
+      order: 3
+      parent: Long Life Prayers
+    f4E45:
+      title: Prayer for the Long Life of Khandro Tsering Chödrön
+      base_file: f4E45.txt
+      order: 4
+      parent: Long Life Prayers
+    f7D4F:
+      title: Prayer to Khandro Tsering Chödrön
+      base_file: f7D4F.txt
+      order: 5
+      parent: Prayers
+    f6467:
+      title: Prayer to Khandro Tsering Chödrön
+      base_file: f6467.txt
+      order: 6
+      parent: Prayers
+    fE278:
+      title: Prayer to Khandro Tsering Chödrön
+      base_file: fE278.txt
+      order: 7
+      parent: Prayers
+    fF76A:
+      title: Prayer to Khandro Tsering Chödrön
+      base_file: fF76A.txt
+      order: 8
+      parent: Prayers
+    f2164:
+      title: 'Cymbals to Invoke a Compassionate Response: A Prayer for Swift Rebirth
+        of Khandro Tsering Chödrön'
+      base_file: f2164.txt
+      order: 9
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
